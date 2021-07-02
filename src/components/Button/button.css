@@ -1,0 +1,18 @@
+.button{
+    background-color: #FFD8CC;
+    height: 5.5rem;
+    width: 8rem;
+    justify-content: centre;
+    font-size: 22px;
+    border: 1px groove;
+     
+}
+
+#on-click{
+    opacity: 70%;
+    color: #ffeedb;
+    background-color: #f8c6b6;
+ 
+
+    
+  }
